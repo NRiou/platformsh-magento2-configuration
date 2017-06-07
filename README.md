@@ -14,3 +14,6 @@ You can get it via Composer by adding the following line to your ``composer.json
 },
 ```
 
+Forked from  platformsh/platformsh-magento2-configuration
+Add support for CE 
+
